@@ -12,7 +12,9 @@ body {
 
 #root > div {
   margin-top: 20px;
-  display: flex;
+  // This messes up the display of the flats
+  // display: flex;
+  height: auto;
 }
 
 .map-container {
