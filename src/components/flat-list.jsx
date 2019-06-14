@@ -9,6 +9,9 @@ class FlatList extends Component {
         <Flat></Flat>
         <Flat></Flat>
         <Flat></Flat>
+        <Flat></Flat>
+        <Flat></Flat>
+        <Flat></Flat>
       </div>
     );
   }
